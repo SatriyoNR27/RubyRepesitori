@@ -1,0 +1,6 @@
+puts "HELLO MANTAN"
+puts "HALLO PACAFA BARU"
+print "Satriyo Nuraji Rasa"
+puts "apa auyang kamu lakukan dalam ruby"
+puts "rasa"
+print "COBA COBA"
